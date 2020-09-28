@@ -3,6 +3,8 @@ Imam Uddin
 WordPress | WooCommerce | SEO
 Hey there; it's me! 🤠 Imam Uddin; imamuddinwp, a passionate Front-End Web Developer & SEO Expert. I always love to play with codes, blogging, web design, WordPress, Search Engine Optimization (SEO), Social Media Marketing (SMM), and especially digital marketing. I also love to keep me up-to-date with new technologies & innovative creations. To review my online presence, find me in a popular search engine by searching with the keyword 🕵 'imamuddinwp'. 
 
+- ![about_me](/imam-uddin-imamuddinwp.png) 
+
 I'm a full-time professional Freelancer with multiple skillsets for the +7 years. 
 
 👉 How I will help you?...✍
