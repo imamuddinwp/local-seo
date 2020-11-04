@@ -9,4 +9,5 @@
 * [Google My Business GMB](google-my-business-gmb.md)
 * [Imam Uddin \| Local SEO](https://imamuddin.business.site/)
 * [Imam Uddin \| Portfolio](https://imamuddinwp.github.io/imamuddin/)
+* [Bing Listing: Add Your Business to Bing](bing-listing-add-your-business-to-bing.md)
 
