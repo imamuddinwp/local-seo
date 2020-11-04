@@ -1,5 +1,5 @@
 ---
-description: 'Local SEO, Introduction'
+description: 'Local SEO, Introduction To Local SEO'
 ---
 
 # What Is LOcal SEO
