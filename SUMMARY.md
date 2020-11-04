@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Local SEO \| What & Why Local SEO](README.md)
 * [What Is LOcal SEO](what-is-local-seo.md)
 * [How does local SEO work?](how-does-local-seo-work.md)
 * [Why Local Search Is Important?](why-local-search-is-important.md)
