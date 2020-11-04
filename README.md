@@ -8,5 +8,5 @@ description: Local SEO (Local Search Engine Optimization).
 
 ![Local SEO](.gitbook/assets/local-seo-imam-uddin%20%281%29.png)
 
- **Local SEO** also encompasses factors that don't play a major role in traditional **SEO**, such as Google My **Business**, **local** directories and proximity to the searcher. A **business** that invests in **local SEO** is more likely to attract customers to their website as well as to their **business** location.
+ **Local SEO** also encompasses factors that don't play a major role in traditional **SEO**, such as Google My **Business**, **local** directories and proximity to the searcher. A **business** that invests in **local SEO** is more likely to attract customers to their website as well as to their [**business location**](https://github.com/imamuddinwp).
 
