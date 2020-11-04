@@ -20,11 +20,11 @@ If you’re looking to improve both types of local rankings, it may be useful to
 
 6.= Personalization \(7%\)
 
-![Local SEO Ranking Factor](.gitbook/assets/local-seo-ranking-factor.jpg)
+![Local SEO Ranking Factor](../.gitbook/assets/local-seo-ranking-factor.jpg)
 
 When planning your local SEO strategy, always bear in mind that different factors will require very different time investments, so it’s not as simple as reading these results and saying, “Okay, I’ll spend X% of my time on X”.
 
-![Local SEO Ranking Factors](.gitbook/assets/local-seo-ranking-factors.jpg)
+![Local SEO Ranking Factors](../.gitbook/assets/local-seo-ranking-factors.jpg)
 
 Link building, for example, is a time-intensive and ongoing task, whereas a lot of work with reviews or citations can be automated or outsourced, freeing you up to focus on other factors.
 

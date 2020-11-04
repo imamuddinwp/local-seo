@@ -8,7 +8,7 @@ description: How to Claim Your Bing Listing or Add Your Business to Bing
 
  [_**Bing places for business**_](https://www.bingplaces.com/) is a **FREE** service using which you can manage your **business** listing on **Bing** Search and Maps. - Add latest photos of your **business** \(storefront, interiors etc.\)
 
-![Bing Listing or Add Your Business to Bing](.gitbook/assets/bing-listing.jpg)
+![Bing Listing or Add Your Business to Bing](../.gitbook/assets/bing-listing.jpg)
 
 **How to Claim** Your [**Bing Listing** ](https://www.brightlocal.com/learn/how-to-add-or-claim-a-bing-places-for-business-listing/)or Add Your Business to **Bing**
 

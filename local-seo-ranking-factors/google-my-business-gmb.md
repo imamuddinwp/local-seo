@@ -4,7 +4,7 @@ description: 'Google My Business GMB, Factors That Don’t Impact Rankings.'
 
 # Google My Business GMB
 
-Google My Business is a free and easy-to-use tool for businesses and organizations to manage their online presence across Google, including Search and Maps. To help customers find your business, and to tell them your story, you can verify your business and edit your business information.
+\*\*\*\*[**Google My Business**](https://www.google.com/business/) is a free and easy-to-use tool for businesses and organizations to manage their online presence across Google, including Search and Maps. To help customers find your business, and to tell them your story, you can verify your business and edit your business information.
 
 * Keywords in GMB Services
 * Enabling GMB Messaging
@@ -14,7 +14,7 @@ Google My Business is a free and easy-to-use tool for businesses and organizatio
 * Frequency of Google Posts
 * Quantity of Google Posts
 
-![Google My Business GMB](.gitbook/assets/google-my-business-gmb.jpg)
+![Google My Business GMB](../.gitbook/assets/google-my-business-gmb.jpg)
 
 A feature like Google’s Local Search emphasizes the need for a GMB listing for both new and established businesses.
 
@@ -27,7 +27,7 @@ It gives a list of businesses nearby and a lot of information needed to find a s
 
 **How to set up Google My Business**
 
-1. **Step** 1: Sign in to **Google My Business**. Go to www.**google**.com/**business** to sign in. ...
+1. **Step** 1: Sign in to [**Google My Business**](https://www.wordstream.com/blog/ws/2020/06/08/what-is-google-my-business)**.** Go to www.**google**.com/**business** to sign in. ...
 2. **Step** 2: Add your **business**. Enter your **business** name. ...
 3. **Step** 3: Enter your location. ...
 4. **Step** 4: Fill in your contact information. ...
