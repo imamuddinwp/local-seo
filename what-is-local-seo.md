@@ -10,3 +10,7 @@ Suppose, If you have a local business, like a shop, or have people visiting your
 
  **Local SEO** is merely a variation of your run-of-the-mill **SEO**, and is aimed at making sure your business gets found on search engines like Google and Bing, by people searching for it at that locality.
 
+{% file src=".gitbook/assets/local\_seo\_cheat\_sheet.pdf" caption="Local SEO Cheat Sheet Download" %}
+
+
+
