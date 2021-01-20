@@ -1,7 +1,7 @@
 ---
 description: Local SEO (Local Search Engine Optimization).
 ---
-
+(/local-seo-google-mymap-imamuddinwp.png)
 # Local SEO \| What & Why Local SEO
 
 [Local SEO](https://imamuddinwp.gitbook.io/local-seo/) \(Local Search Engine Optimization\), which is a strategy that helps your business be more visible in local search results on Google. It is an incredibly effective way to **market** your **local** business online, as it helps businesses promote their products and services to **local** customers at the exact time they're looking for them online.  
